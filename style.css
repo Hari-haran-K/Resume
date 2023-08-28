@@ -152,6 +152,9 @@ body{
 .about:last-child{
     margin-bottom: 0;
 }
+.about h2 a{
+    color: #003147;
+}
 .title2{
     color: #003147;
     text-transform: uppercase;
